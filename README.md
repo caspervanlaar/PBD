@@ -1,0 +1,1 @@
+As for the commits. let's keep it somewhat clean, do keep your own offline branch. and for every main branch commit use a # with a number and your initial on it. So we can keep track of changes :). ie #C001
